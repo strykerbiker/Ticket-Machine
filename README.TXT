@@ -60,7 +60,9 @@ Lab Question Answers
 }
 34. The price is shown as 0. 
 35. "My cat has green eyes" will be printed
-36.
+36. It would print "price" and not price variable 
+37. It would print "# price cents"
+38. They have different prices, each objects run there own things
 
 
 

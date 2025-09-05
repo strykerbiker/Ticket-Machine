@@ -52,6 +52,16 @@ public class TicketMachine
         return total;
     }
 
+    public void Prompt()
+    {
+        System.out.println ("Please insert the correct amount of money");
+    }
+    
+    public void showPrice()
+    {
+        System.out.println ("The price of a ticket is" + price + "cents.");
+    }
+    
     /**
      * Receive an amount of money from a customer.
      */
