@@ -59,7 +59,7 @@ public class TicketMachine
      * Print a ticket.
      * Update the total collected and
      * reduce the balance to zero.
-     */
+     */ 
     public void printTicket()
     {
         // Simulate the printing of a ticket.

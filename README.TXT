@@ -7,4 +7,13 @@ Lab Question Answers
 5. it shoul be "public class labCall" for labClass
 6. yes
 7. when you compile the error says Error(s) found in class. I beileve it explains whats wrong but its not clear.
-8.
+8. It is possible to leave the word public out.
+9. It is not possible to leave out the word class. 
+10. (feilds) "private int price;", "private int balance;", and "private int total;"
+    (constructions) "price = cost;", "balance = 0;", "total = 0;", "return price;", "return balance;", "balance = balance + amount;"
+    (methods) "public TicketMachine(int cost)", :public int getPrice()", "public int balance()" 
+11. It has terms that use a value plus another and it has an output which is printing the ticket. 
+12. private int count; the feild is int
+    private Student representative; the feild is Student
+    private Server host; the feild is Server
+13. 
