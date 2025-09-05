@@ -1,14 +1,6 @@
-Project: naive-ticket-machine
-Authors: David Barnes and Michael Kölling
+Lab Question Answers
 
-This project is part of the material for the book
-
-   Objects First with Java - A Practical Introduction using BlueJ
-   Seventh edition
-   David J. Barnes and Michael Kölling
-   Pearson Education
-
-It is discussed in chapter 2.
-
-Purpose of project: To illustrate the basics of fields, constructors, and methods.
-How to start this project: Create one or more TicketMachine objects.
+1. After the ticket it printed the machines balance returns to 0.
+2. If you put more than the required ticket price after printing the ticket the balance will still return to 0 and dont recieve any refund.
+3. If you dont insert enough money it still prints the ticket and returns the machin balance to 0.
+4.
