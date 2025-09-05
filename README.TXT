@@ -16,4 +16,22 @@ Lab Question Answers
 12. private int count; the feild is int
     private Student representative; the feild is Student
     private Server host; the feild is Server
-13. 
+13. The name of the following feilds are...
+    boolean
+    Person
+    Game
+14. 
+15. You can't change the order each time you do it says the same error which is "Error(s) found in class
+16. It is necessary as you run into the same error. 
+17. private int status; 
+18. It belongs to the Student class
+19. There are 2 parameters
+20. Yes. some book feilds are "title" or "bookTitle" 
+21. public Pet(StringpetsName)
+{
+    name = petsName
+}
+22. 
+23. There isn't any big difference with getBalance and getPrice besides that one is getting the balance and the other is getting the price.
+24. "how much money do i have"
+25. The return does not also have to be changes it still works only changing the header
