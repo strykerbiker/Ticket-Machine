@@ -63,6 +63,8 @@ Lab Question Answers
 36. It would print "price" and not price variable 
 37. It would print "# price cents"
 38. They have different prices, each objects run there own things
+39. They should have the same result, %d inserts the next argument as a interger and %n end the line
+40. 
 
 
 
