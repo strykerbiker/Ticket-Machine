@@ -25,7 +25,8 @@ public class TicketMachine
      */
     public TicketMachine(int cost)
     {
-        price = cost;
+        price = 1000;
+        price = cost;       
         balance = 0;
         total = 0;
     }
@@ -55,6 +56,11 @@ public class TicketMachine
     public void Prompt()
     {
         System.out.println ("Please insert the correct amount of money");
+    }
+    
+    public void empty()
+    {
+        total = 0;
     }
     
     public void showPrice()

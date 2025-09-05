@@ -64,7 +64,8 @@ Lab Question Answers
 37. It would print "# price cents"
 38. They have different prices, each objects run there own things
 39. They should have the same result, %d inserts the next argument as a interger and %n end the line
-40. 
+40. Whenever you make a ticket regardless of the price you give the price will be fixed at 1000
+41. The empty method would be a mutator.
 
 
 
