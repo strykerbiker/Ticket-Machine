@@ -31,7 +31,40 @@ Lab Question Answers
 {
     name = petsName
 }
-22. 
+22. public date(String month, int day, int year)
+{
+    System.out.printIn(month + day + year)
+}
 23. There isn't any big difference with getBalance and getPrice besides that one is getting the balance and the other is getting the price.
 24. "how much money do i have"
 25. The return does not also have to be changes it still works only changing the header
+26. when you remove the reutrn price it gives the same error "Error(s) found in class
+27. getPrice gives you the price of the ticket, printTicket prints the ticket, TicketMachine is the variable
+28. They do not have return statements. They dont provide the number.
+29. public void increasScore(int points)
+{
+    score = score + points;
+}
+30. it is a mutator, you could print out the before and after 
+31. public void discount(int amount)
+{
+    price = price - amount; 
+}
+32. public void setAge(int currentAge)
+{
+    age = currentAge;
+}
+33. public void setAlive(boolean alive)
+{
+    this.alive = alive;
+}
+34. The price is shown as 0. 
+35. "My cat has green eyes" will be printed
+36.
+
+
+
+
+
+
+
